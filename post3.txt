@@ -1,0 +1,24 @@
+{
+    "args": {
+        "course": "first",
+        "group": "QA22",
+        "name": "Tatyana",
+        "surname": "Lukoyanova"
+    },
+    "data": "",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Content-Length": "0",
+        "Host": "httpbin.org",
+        "Postman-Token": "544ef6e6-42ab-4476-b149-7be2e199cb29",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62f3b81e-18daa30240d2f1cf4fdc90b0"
+    },
+    "json": null,
+    "method": "POST",
+    "origin": "188.163.108.142",
+    "url": "http://httpbin.org/anything?name=Tatyana&surname=Lukoyanova&course=first&group=QA22"
+}
